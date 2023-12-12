@@ -7,4 +7,6 @@ Rectangle {
     height: 100
     color: "black"
     anchors.centerIn: parent
+
+    LocalRect {}
 }
